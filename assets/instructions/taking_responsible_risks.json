@@ -1,0 +1,104 @@
+{
+    "instructions": [
+        {
+            "id": 1,
+            "instruction": "Your project team is falling behind schedule, and your manager announces a new technology that could streamline your workflow. The technology is unfamiliar to the team, and there\u2019s limited documentation, but if implemented quickly, it could accelerate your progress. You could stick with your current process and work overtime to catch up, propose switching to the new technology despite the learning curve, or request an extension to buy more time. What do you do?"
+        },
+        {
+            "id": 2,
+            "instruction": "You\u2019re organizing an important event, and just two days before, a well-known guest speaker becomes unexpectedly available for your date\u2014but you would need to significantly revise the agenda and logistics on short notice. You could go ahead with the original plan, try to incorporate the new speaker at the last minute despite the disruptions, or postpone the speaker for a future event. What is your approach?"
+        },
+        {
+            "id": 3,
+            "instruction": "In a group assignment, you discover a creative but unconventional approach that could impress your professor, yet it requires learning new methods and there\u2019s a chance it may not work as intended. The group could stick to the tried-and-tested format to ensure a solid grade, propose the new idea and divide up tasks to learn what\u2019s needed in time, or submit a partial project and request an extension. How would you proceed?"
+        },
+        {
+            "id": 4,
+            "instruction": "Your team is ahead of schedule on a project when a complex issue emerges that wasn\u2019t in the original scope, but addressing it now might enhance results. You can ignore the issue for this phase, attempt to tackle it immediately, or flag it for future consideration. What\u2019s your approach?"
+        },
+        {
+            "id": 5,
+            "instruction": "During a campus event, you notice an unexpected opportunity to network with a leading expert, though you haven\u2019t prepared an introduction. You could approach the expert to start a conversation, wait for a more suitable time, or focus on networking with peers as planned. What do you choose?"
+        },
+        {
+            "id": 6,
+            "instruction": "In a team meeting, a sudden problem arises that\u2019s outside your area of expertise but aligns with a skill you\u2019ve been developing. You can volunteer to help, suggest someone more experienced handles it, or propose the team researches solutions together. What do you decide?"
+        },
+        {
+            "id": 7,
+            "instruction": "You\u2019re offered a chance to pilot a new tool that could improve productivity, but support resources are limited. You could adopt it for your next assignment, wait until the tool is more established, or continue with your current workflow. What\u2019s your course of action?"
+        },
+        {
+            "id": 8,
+            "instruction": "With limited time left in a group exam, you spot an alternative method to solve the last problem, though you\u2019re less familiar with it. You can use your usual approach, try the new method, or skip the question altogether. How do you proceed?"
+        },
+        {
+            "id": 9,
+            "instruction": "Your supervisor unexpectedly asks you to present at a client meeting starting in 15 minutes. You have basic knowledge of the topic and notes to use. You could accept and present, request to join only for Q&A, or ask to defer to a more experienced colleague. What do you do?"
+        },
+        {
+            "id": 10,
+            "instruction": "While preparing a report, you identify a potential error in the dataset. You can deliver the report as scheduled, flag the concern and delay the submission while you investigate, or submit with a disclaimer about possible issues. Which do you choose?"
+        },
+        {
+            "id": 11,
+            "instruction": "You\u2019re tasked with choosing a conference session for your team, and one session features a novel, untested framework that could address your team\u2019s main challenge. You could attend the standard session, pick the novel one, or split your team\u2019s attendance. What will you decide?"
+        },
+        {
+            "id": 12,
+            "instruction": "At a hackathon, you spot a gap in the current solutions that could be filled by an unconventional idea you just had, though you haven\u2019t validated it. You can stick with your original plan, pivot to the new idea, or wait for another round to propose it. What do you do?"
+        },
+        {
+            "id": 13,
+            "instruction": "During a collaborative brainstorming, you think of a solution that hasn\u2019t been tried before but might challenge group norms. You could share your idea now, wait to see if someone else suggests it, or keep contributing more familiar suggestions. What\u2019s your move?"
+        },
+        {
+            "id": 14,
+            "instruction": "A project deadline is approaching, and you have the option to incorporate a recently published research finding that could enhance your results, but it hasn\u2019t been widely adopted. You could include it in your project, mention it as a future opportunity, or stick to established methods. How do you proceed?"
+        },
+        {
+            "id": 15,
+            "instruction": "You\u2019re running late for a meeting when you receive a message about a sudden opportunity to join a key decision-makers\u2019 roundtable happening at the same time. You could reschedule your original meeting to attend the roundtable, delegate your attendance, or attend your meeting as planned. What do you do?"
+        },
+        {
+            "id": 16,
+            "instruction": "During the final review of your group\u2019s campaign proposal, a teammate suggests an attention-grabbing tactic that could set you apart, though it\u2019s unlike anything your client has seen. You can incorporate it, leave the proposal unchanged, or suggest testing the idea in a later phase. What will you decide?"
+        },
+        {
+            "id": 17,
+            "instruction": "You\u2019re offered a leadership role on a volunteer project for a community you\u2019re passionate about, but you have limited experience leading similar initiatives. You can accept the role, request to be a co-lead, or participate as a team member. What do you choose?"
+        },
+        {
+            "id": 18,
+            "instruction": "Your professor invites you to contribute to a conference paper on a topic you have just started studying. You can agree to co-author, propose to assist with research only, or decline and focus on your coursework. How do you proceed?"
+        },
+        {
+            "id": 19,
+            "instruction": "When your colleague unexpectedly falls ill before a critical presentation, your manager asks if you can step in. You\u2019re familiar with the content but haven\u2019t practiced delivering it. You can take on the presentation, assist with preparation, or suggest postponing it. What\u2019s your response?"
+        },
+        {
+            "id": 20,
+            "instruction": "A client requests a creative solution to a recurring problem, and you remember a method that\u2019s rarely used in your industry but has promising results elsewhere. You can propose the new method, adapt a commonly used approach, or provide several traditional options. What do you choose?"
+        },
+        {
+            "id": 21,
+            "instruction": "You have a chance to submit a project for a competitive award, but it requires a rapid rewrite to meet the submission criteria. You can invest the extra effort now, wait for a less competitive cycle, or skip the opportunity and focus on current priorities. What\u2019s your decision?"
+        },
+        {
+            "id": 22,
+            "instruction": "In the final moments of a debate, you think of an unconventional argument that could shift the outcome, though you haven\u2019t practiced articulating it. You could introduce it, rely on your prepared points, or defer to a teammate for closing remarks. What will you do?"
+        },
+        {
+            "id": 23,
+            "instruction": "You notice an error in a widely-used procedure during a busy shift. You could suggest an immediate adjustment, record your observation for a later review, or follow the procedure as written until you have more support. What\u2019s your approach?"
+        },
+        {
+            "id": 24,
+            "instruction": "An unexpected change in project requirements opens the door for a new technology you\u2019ve read about but haven\u2019t implemented before. You can propose adopting it, recommend sticking to your usual tools, or suggest a trial in a future project. What do you do?"
+        },
+        {
+            "id": 25,
+            "instruction": "You receive an invitation to represent your company at an industry event abroad, but travel arrangements must be made within 24 hours and you have minimal travel experience. You can accept and arrange the trip, ask a colleague to go instead, or decline due to the short notice. What\u2019s your decision?"
+        }
+    ]
+}

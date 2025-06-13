@@ -1,0 +1,104 @@
+{
+    "instructions": [
+        {
+            "id": 1,
+            "instruction": "While walking in a park, you notice a tree with unusually patterned leaves you've never seen before. Describe your next steps."
+        },
+        {
+            "id": 2,
+            "instruction": "You overhear a conversation about a scientific breakthrough in quantum computing that you are unfamiliar with. Explain how you would proceed."
+        },
+        {
+            "id": 3,
+            "instruction": "A friend shows you a video of an artist painting with a technique you've never seen. Outline what you would do next."
+        },
+        {
+            "id": 4,
+            "instruction": "You encounter a word in a book whose meaning you don't know, and the context doesn't make it clear. Describe your immediate actions."
+        },
+        {
+            "id": 5,
+            "instruction": "During a presentation, you see a graph with surprising results that contradict common assumptions. Detail your next steps."
+        },
+        {
+            "id": 6,
+            "instruction": "You read about an animal that exhibits behavior previously thought impossible for its species. State how you would react next."
+        },
+        {
+            "id": 7,
+            "instruction": "A colleague introduces you to a piece of unfamiliar music with a unique sound structure. Explain your next actions."
+        },
+        {
+            "id": 8,
+            "instruction": "While cooking, you accidentally combine two ingredients and produce an unexpected taste. Describe what you do after noticing this."
+        },
+        {
+            "id": 9,
+            "instruction": "You notice a strange pattern in the weather that no one else seems to comment on. What would you do next?"
+        },
+        {
+            "id": 10,
+            "instruction": "You see a news article headline mentioning a recently discovered planet outside our solar system. Outline your immediate response."
+        },
+        {
+            "id": 11,
+            "instruction": "A museum exhibit displays an artifact with unfamiliar symbols. What would be your next steps upon seeing it?"
+        },
+        {
+            "id": 12,
+            "instruction": "You observe a machine at work whose internal mechanism is not visible, yet it produces results that seem hard to explain. Describe your course of action."
+        },
+        {
+            "id": 13,
+            "instruction": "While hiking, you come across an insect with vibrant colors and behaviors you've not observed before. Explain how you would proceed."
+        },
+        {
+            "id": 14,
+            "instruction": "You are introduced to a mathematical puzzle with a solution method you've never encountered. Describe your immediate next steps."
+        },
+        {
+            "id": 15,
+            "instruction": "In a conversation, someone mentions a historical event that you know little about, and it sounds unexpected. What do you do next?"
+        },
+        {
+            "id": 16,
+            "instruction": "You notice your phone\u2019s app gives an unusual notification you haven\u2019t seen before. Explain your next actions."
+        },
+        {
+            "id": 17,
+            "instruction": "You try a new dish at a restaurant and can't identify the unique flavor. Describe your response after the first bite."
+        },
+        {
+            "id": 18,
+            "instruction": "You see an optical illusion online that appears different each time you look. What are your next steps?"
+        },
+        {
+            "id": 19,
+            "instruction": "A classmate performs a magic trick that defies your understanding of physics. Outline what you would do next."
+        },
+        {
+            "id": 20,
+            "instruction": "You receive a text message in a language with a script you've never seen before. Describe how you respond."
+        },
+        {
+            "id": 21,
+            "instruction": "In a documentary, you learn about a culture with rituals unfamiliar to you. Explain your next actions after watching."
+        },
+        {
+            "id": 22,
+            "instruction": "You notice a plant in your garden blooms at night but not during the day, which you haven't seen before. What would you do next?"
+        },
+        {
+            "id": 23,
+            "instruction": "You read a summary of a newly proposed scientific theory that challenges established understanding. Explain your next steps."
+        },
+        {
+            "id": 24,
+            "instruction": "You stumble upon a work of abstract art that evokes a strong visual reaction but you do not immediately understand its meaning. What would you do next?"
+        },
+        {
+            "id": 25,
+            "instruction": "You find an old family photo with someone you don\u2019t recognize at a familiar location. Describe your next course of action."
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "instructions": [
+        {
+            "id": 1,
+            "instruction": "You are a product designer at a consumer electronics firm tasked with updating a popular smartwatch model. Review the existing features and propose your approach for the next model's design and functionality."
+        },
+        {
+            "id": 2,
+            "instruction": "You are an urban planner assigned to improve a city park that currently follows a standard rectangular layout with sports fields and walking paths. Develop a plan to enhance the park's utility and appeal for diverse users."
+        },
+        {
+            "id": 3,
+            "instruction": "You are an educator preparing a lesson on climate change for high school students, using the current curriculum. Describe how you would structure and deliver the lesson to maximize understanding and engagement."
+        },
+        {
+            "id": 4,
+            "instruction": "You are a marketing manager tasked with launching a new beverage in a market where similar products already exist. Outline your campaign strategy to promote the product effectively."
+        },
+        {
+            "id": 5,
+            "instruction": "You are a restaurant manager who needs to refresh the lunch menu, which currently offers standard fare. Suggest your approach for updating the menu to better attract midday customers."
+        },
+        {
+            "id": 6,
+            "instruction": "You are an operations manager at a distribution warehouse using standard operating procedures for inventory management. Present your plan to improve efficiency and reduce errors."
+        },
+        {
+            "id": 7,
+            "instruction": "You are a software developer updating a mobile app that follows established design patterns. Describe your approach to revising the app to boost user satisfaction."
+        },
+        {
+            "id": 8,
+            "instruction": "You are a school principal addressing declining attendance by relying on standard communication and intervention methods. Describe your strategy to encourage regular student attendance."
+        },
+        {
+            "id": 9,
+            "instruction": "You are a healthcare administrator tasked with increasing vaccination rates at a clinic, which currently uses standard outreach methods. Outline your approach to achieving this goal."
+        },
+        {
+            "id": 10,
+            "instruction": "You are a travel agency manager looking to update a tour package that has followed the same itinerary for years. Detail your plan to refresh the package and boost bookings."
+        },
+        {
+            "id": 11,
+            "instruction": "You are a finance officer in charge of preparing the annual report, which typically follows a set template. Explain how you would approach this year\u2019s report to ensure clarity and usefulness for stakeholders."
+        },
+        {
+            "id": 12,
+            "instruction": "You are a customer service team lead at a telecom company, where standard scripts are used to handle complaints. Describe your plan to improve customer satisfaction metrics."
+        },
+        {
+            "id": 13,
+            "instruction": "You are a training coordinator updating the onboarding process for new hires, which currently follows a checklist format. Present your recommendations for enhancing the onboarding experience."
+        },
+        {
+            "id": 14,
+            "instruction": "You are a museum curator responsible for an exhibit on local history, which traditionally uses chronological displays and text panels. Describe how you would design this exhibit."
+        },
+        {
+            "id": 15,
+            "instruction": "You are a logistics manager overseeing delivery routes that have remained unchanged for several years. Outline your approach to optimizing these routes for cost and speed."
+        },
+        {
+            "id": 16,
+            "instruction": "You are a program coordinator at a public library tasked with increasing adult attendance at weekly events, which currently use standard themes and formats. Explain your strategy."
+        },
+        {
+            "id": 17,
+            "instruction": "You are an HR specialist revamping the annual employee recognition program, which typically includes awards and certificates. Propose your plan for this year\u2019s program."
+        },
+        {
+            "id": 18,
+            "instruction": "You are a safety officer reviewing the company\u2019s established emergency response protocol. Summarize your approach to ensuring employee preparedness."
+        },
+        {
+            "id": 19,
+            "instruction": "You are a retail store manager with a standard floor layout and merchandising strategy. Outline how you would organize the store to improve customer experience and sales."
+        },
+        {
+            "id": 20,
+            "instruction": "You are a science teacher planning a unit on renewable energy using the department\u2019s existing materials. Describe your method for teaching this unit."
+        },
+        {
+            "id": 21,
+            "instruction": "You are a nonprofit project leader tasked with fundraising for a recurring cause using traditional outreach events. Present your strategy for this year\u2019s fundraising drive."
+        },
+        {
+            "id": 22,
+            "instruction": "You are a product manager responsible for an annual user conference that typically follows a keynote, breakout sessions, and networking. Outline your plan for the upcoming event."
+        },
+        {
+            "id": 23,
+            "instruction": "You are a university admissions officer reviewing the established campus tour format for prospective students. Suggest your approach to delivering the tour this semester."
+        },
+        {
+            "id": 24,
+            "instruction": "You are a web content editor for a news site with a standard publishing process. Describe how you would approach managing content to increase readership."
+        },
+        {
+            "id": 25,
+            "instruction": "You are a sustainability coordinator at a corporate office with an existing recycling program. Present your plan to further reduce the organization\u2019s environmental footprint."
+        }
+    ]
+}

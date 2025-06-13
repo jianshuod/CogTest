@@ -1,0 +1,104 @@
+{
+    "instructions": [
+        {
+            "id": 1,
+            "instruction": "As a bakery consultant visiting a struggling bakery, identify improvements needed to enhance the customer experience during morning hours."
+        },
+        {
+            "id": 2,
+            "instruction": "As a theme park designer, plan a new walking path that maximizes guest enjoyment for all age groups."
+        },
+        {
+            "id": 3,
+            "instruction": "As a museum curator, review an exhibit space and recommend changes to increase visitor engagement."
+        },
+        {
+            "id": 4,
+            "instruction": "As a restaurant manager, assess the dining area during dinner service and propose ways to increase guest satisfaction."
+        },
+        {
+            "id": 5,
+            "instruction": "As a safety officer on a factory floor, conduct a walkthrough and identify potential risks affecting staff performance."
+        },
+        {
+            "id": 6,
+            "instruction": "As an event planner at a conference venue, walk through the main hall and outline suggestions to boost attendee energy and focus."
+        },
+        {
+            "id": 7,
+            "instruction": "As a hotel quality inspector, visit a guest room and report on any elements that could enhance or diminish a guest's stay."
+        },
+        {
+            "id": 8,
+            "instruction": "As a children's museum exhibit designer, evaluate a prototype play area for opportunities to improve learning and engagement."
+        },
+        {
+            "id": 9,
+            "instruction": "As a barista trainer, visit a coffee shop during peak hours and provide feedback on the drink preparation area and customer waiting space."
+        },
+        {
+            "id": 10,
+            "instruction": "As a retail consultant in a flagship clothing store, identify factors that could drive higher customer interest and dwell time."
+        },
+        {
+            "id": 11,
+            "instruction": "As a spa manager, experience a standard treatment as a guest and suggest enhancements to the overall service."
+        },
+        {
+            "id": 12,
+            "instruction": "As a cruise ship activities coordinator, tour a new entertainment deck and develop ideas to increase passenger participation."
+        },
+        {
+            "id": 13,
+            "instruction": "As a product designer, interact with a new prototype household appliance and record areas for possible improvement."
+        },
+        {
+            "id": 14,
+            "instruction": "As a real estate agent preparing an open house, check the property and propose ways to make it more appealing to buyers."
+        },
+        {
+            "id": 15,
+            "instruction": "As a theme restaurant owner, dine as a customer during a typical lunch and list suggestions for a more memorable visit."
+        },
+        {
+            "id": 16,
+            "instruction": "As a playground safety inspector, review a recently installed play structure and note any concerns or adjustments needed."
+        },
+        {
+            "id": 17,
+            "instruction": "As a vineyard tour guide, walk through the visitor route and propose ways to elevate the tour experience."
+        },
+        {
+            "id": 18,
+            "instruction": "As a mobile phone usability tester, use the latest model for a day and describe any issues or enhancements to consider."
+        },
+        {
+            "id": 19,
+            "instruction": "As a hotel housekeeping supervisor, inspect a serviced suite just before guest arrival and provide a readiness assessment."
+        },
+        {
+            "id": 20,
+            "instruction": "As a theme park food stall manager, work a lunch shift and outline recommendations to improve throughput and guest contentment."
+        },
+        {
+            "id": 21,
+            "instruction": "As a boutique perfumery owner, experience the customer journey from entrance to purchase and suggest improvements."
+        },
+        {
+            "id": 22,
+            "instruction": "As a gourmet chocolatier, sample your shop\u2019s offerings and recommend potential changes to the product lineup."
+        },
+        {
+            "id": 23,
+            "instruction": "As a classroom environment consultant, visit a primary school classroom during a lesson and identify modifications to support student focus."
+        },
+        {
+            "id": 24,
+            "instruction": "As a supermarket floor manager, tour the produce section and detail how the setup could be optimized for shoppers."
+        },
+        {
+            "id": 25,
+            "instruction": "As a fitness center owner, attend a busy group class and highlight steps to make the environment more motivating for participants."
+        }
+    ]
+}

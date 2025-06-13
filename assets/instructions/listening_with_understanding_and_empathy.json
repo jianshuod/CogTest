@@ -1,0 +1,104 @@
+{
+    "instructions": [
+        {
+            "id": 1,
+            "instruction": "As a team leader, you receive an email from a team member who has been consistently missing deadlines. In the message, they apologize for the delays and mention having 'a lot going on outside of work.' Write your response to this email."
+        },
+        {
+            "id": 2,
+            "instruction": "As a research partner, your collaborator submits draft results but makes several more mistakes than usual. In the cover note, they mention feeling 'off lately' and worry about the quality. Draft a reply email to your collaborator."
+        },
+        {
+            "id": 3,
+            "instruction": "As an academic advisor, a student schedules a meeting to discuss dropping a course. During the meeting, the student gives brief, vague reasons about \u2018just not fitting in\u2019 with the class. Prepare what you would say next."
+        },
+        {
+            "id": 4,
+            "instruction": "As a client relationship manager, you\u2019re contacted by a long-term client who is abruptly considering terminating their contract. In their message, they refer to 'recent frustrations' but don\u2019t give specifics. Compose your response."
+        },
+        {
+            "id": 5,
+            "instruction": "As a project manager, in a progress review, one team member is uncharacteristically quiet and says their part is 'fine,' but their body language appears withdrawn. Write what you would say during the meeting."
+        },
+        {
+            "id": 6,
+            "instruction": "As a peer reviewer, you receive a draft where the author prefaces the work by saying they 'tried to meet expectations' but fear 'it still won't be enough.' Provide your written feedback to the author."
+        },
+        {
+            "id": 7,
+            "instruction": "As a committee chair, after a challenging meeting, one committee member emails that they felt their ideas weren't taken seriously. Write your reply to their message."
+        },
+        {
+            "id": 8,
+            "instruction": "As a product designer, your engineer messages that a component isn\u2019t feasible, despite originally agreeing to it. Their message is brief, and their tone seems unusually tense. Compose your reply."
+        },
+        {
+            "id": 9,
+            "instruction": "As a tutor, a student submits a blank assignment with a note saying, 'Sorry, I couldn't do it.' Write your reply message to the student."
+        },
+        {
+            "id": 10,
+            "instruction": "As a workshop facilitator, during a feedback session, one participant quietly remarks that group work 'wasn\u2019t their favorite.' Prepare your immediate verbal response."
+        },
+        {
+            "id": 11,
+            "instruction": "As a hiring manager, after a second interview, a candidate withdraws from consideration, mentioning only \u2018health reasons\u2019 in their note. Write your reply."
+        },
+        {
+            "id": 12,
+            "instruction": "As a team captain, a player messages that they 'might not make it to practice for a while' but gives no reason. Draft your response."
+        },
+        {
+            "id": 13,
+            "instruction": "As a lab supervisor, you notice a researcher\u2019s output has dropped. When you check in, they say 'I\u2019m handling it' but avoid eye contact. Write out what you would say next."
+        },
+        {
+            "id": 14,
+            "instruction": "As a peer mentor, a mentee says in a check-in meeting, 'I think I'm just not cut out for this,' and shrugs. Write your response."
+        },
+        {
+            "id": 15,
+            "instruction": "As a customer support lead, a junior rep expresses concern that a client has been unusually demanding lately, and admits feeling 'a bit overwhelmed.' Write your message to the junior rep."
+        },
+        {
+            "id": 16,
+            "instruction": "As a teaching assistant, a student who usually participates stops attending sessions. You email to check in, and they reply, 'Sorry, just dealing with a lot.' Compose your reply."
+        },
+        {
+            "id": 17,
+            "instruction": "As a conference organizer, a speaker cancels last minute, stating only that 'something urgent came up' and apologizing. Write your response email."
+        },
+        {
+            "id": 18,
+            "instruction": "As a software team lead, a developer delivers code with more errors than usual and adds in their commit message, 'Not my best, I guess.' Compose a message to the developer."
+        },
+        {
+            "id": 19,
+            "instruction": "As a co-author, your writing partner edits far fewer pages than planned and adds a comment: 'Having trouble focusing lately.' Write your reply."
+        },
+        {
+            "id": 20,
+            "instruction": "As an HR officer, an employee emails requesting time off at short notice, saying only that \u2018something came up at home.\u2019 Draft your response."
+        },
+        {
+            "id": 21,
+            "instruction": "As a debate team coach, a team member asks to be replaced for an upcoming match, saying they are \u2018not feeling up to it lately.\u2019 Compose your reply."
+        },
+        {
+            "id": 22,
+            "instruction": "As a sales manager, an account executive says they\u2019re struggling to meet targets but doesn\u2019t elaborate. Prepare a message to follow up."
+        },
+        {
+            "id": 23,
+            "instruction": "As an event coordinator, a volunteer messages that they can no longer assist but doesn\u2019t specify why. Write your reply."
+        },
+        {
+            "id": 24,
+            "instruction": "As a peer group facilitator, a usually talkative participant falls silent and, when prompted, says, 'It\u2019s just one of those days.' Write your verbal response."
+        },
+        {
+            "id": 25,
+            "instruction": "As a training supervisor, a trainee completes an evaluation form indicating 'challenges' but provides little detail. Prepare your response in a follow-up message."
+        }
+    ]
+}

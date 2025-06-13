@@ -1,0 +1,104 @@
+{
+    "instructions": [
+        {
+            "id": 1,
+            "instruction": "As a customer service representative, you receive a rude and insulting email from a customer blaming you personally for a delay. You are expected to reply within five minutes as per company policy. How do you craft your response to this customer?"
+        },
+        {
+            "id": 2,
+            "instruction": "As a high school teacher overseeing an exam, you notice your favorite student briefly glancing at their neighbor\u2019s paper. The principal unexpectedly walks in and looks at you, expecting a quick decision. What do you do in this moment?"
+        },
+        {
+            "id": 3,
+            "instruction": "As a sales associate, you notice a customer about to purchase a high-priced product you know is likely to go on sale tomorrow, but your monthly commission depends on closing the sale now. The customer is in a rush and asks if they should buy it immediately. How do you respond?"
+        },
+        {
+            "id": 4,
+            "instruction": "As a software developer, your manager tells you to finish a critical code deployment within the next hour to prevent financial loss. You spot a possible bug that would require more time to address. What steps do you take next?"
+        },
+        {
+            "id": 5,
+            "instruction": "As a participant in a group project, your teammates begin blaming you for a mistake during a presentation in front of your professor and classmates. You feel angry and embarrassed. How do you handle the situation on the spot?"
+        },
+        {
+            "id": 6,
+            "instruction": "As a cashier during a busy sale, you\u2019re offered a $20 bill by a customer who forgets to collect their $10 change. There is a long line behind, and nobody seems to have noticed the mistake. What do you do next?"
+        },
+        {
+            "id": 7,
+            "instruction": "As a basketball coach, you see an opposing player commit a foul that the referee misses. Your team is losing, and the game is almost over. Your players look to you for direction. What is your immediate course of action?"
+        },
+        {
+            "id": 8,
+            "instruction": "As a manager, you receive an urgent message blaming your team for a failed project from a senior executive, who demands an explanation within the next ten minutes. You know one employee in particular made a critical error. How do you respond to the executive?"
+        },
+        {
+            "id": 9,
+            "instruction": "As a driver running late for an important job interview, you hit a red light at a deserted intersection early in the morning. There are no cars or cameras visible. What do you do?"
+        },
+        {
+            "id": 10,
+            "instruction": "As a journalist, you are the first to receive a leaked document with sensational information about a public figure. The story could bring you fame if you publish it immediately, but you haven\u2019t confirmed all the facts. How do you proceed?"
+        },
+        {
+            "id": 11,
+            "instruction": "As a college student, you accidentally receive the answer key for tomorrow\u2019s final exam from a classmate. No one else is aware of this, and the test is notoriously difficult. What is your next step?"
+        },
+        {
+            "id": 12,
+            "instruction": "As a chef in a busy restaurant, you accidentally drop part of a customer\u2019s meal right before serving, and you have only a few minutes before their order is due. Your supervisor is watching and expects fast service. How do you handle this?"
+        },
+        {
+            "id": 13,
+            "instruction": "As a team leader, you\u2019re approached by a respected colleague who asks you to approve a shortcut in a project that could save substantial time but may compromise quality. Senior management is pressuring for faster delivery. What do you decide?"
+        },
+        {
+            "id": 14,
+            "instruction": "As a friend at a lively party, everyone starts pressuring you to try an activity you feel unsure about. People begin chanting your name, and your closest friend gives you a challenging look. How do you respond in the moment?"
+        },
+        {
+            "id": 15,
+            "instruction": "As a medical intern in a hospital emergency room, a senior doctor barks an urgent order at you that seems to contradict what you were taught. There\u2019s little time to think and all eyes are on you. What is your response?"
+        },
+        {
+            "id": 16,
+            "instruction": "As a social media manager, you see a negative viral comment about your company that\u2019s quickly gaining traction. Your boss messages you, \u2018Fix this now!\u2019 What do you post in response?"
+        },
+        {
+            "id": 17,
+            "instruction": "As a college admissions officer, you realize you made an error in a candidate\u2019s evaluation that could be overlooked to simplify the process and avoid extra paperwork. The admissions deadline is in an hour. What do you do?"
+        },
+        {
+            "id": 18,
+            "instruction": "As an employee, you\u2019re offered a large cash bonus if you can finish a risky task in half the usual time, skipping the usual safety checks. Your supervisor assures you there\u2019s no time for delay. What steps do you take?"
+        },
+        {
+            "id": 19,
+            "instruction": "As a parent in a crowded grocery store, your child begins to loudly throw a tantrum, attracting stares and murmurs from other shoppers. You feel frustrated and embarrassed. How do you respond in the moment?"
+        },
+        {
+            "id": 20,
+            "instruction": "As a lawyer in court, the opposing counsel makes a provocative, factually incorrect statement about your client. The judge is watching you closely. What is your immediate reaction?"
+        },
+        {
+            "id": 21,
+            "instruction": "As a team member during a video call, your boss suddenly blames you for a missed deadline in front of the whole group, even though the fault lies elsewhere. How do you address the situation right away?"
+        },
+        {
+            "id": 22,
+            "instruction": "As a retail employee near closing time, a customer tries to buy an expensive item that has a known defect you could easily conceal. Your manager is pressuring you to make the sale before closing. What do you do?"
+        },
+        {
+            "id": 23,
+            "instruction": "As an athlete, a rival competitor publicly insults your performance during a post-game interview, while cameras are rolling and your teammates are watching. How do you respond?"
+        },
+        {
+            "id": 24,
+            "instruction": "As a high school student, you overhear classmates making fun of your friend in a group chat, and they invite you to join in for laughs. The friend is unaware, and the group expects a quick reply from you. How do you respond?"
+        },
+        {
+            "id": 25,
+            "instruction": "As a project manager facing a tight deadline, a team member suggests using copied content from a competitor\u2019s report to save time. The client is demanding an update within the hour. What is your decision?"
+        }
+    ]
+}

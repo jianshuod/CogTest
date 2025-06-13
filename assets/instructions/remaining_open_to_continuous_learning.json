@@ -1,0 +1,104 @@
+{
+    "instructions": [
+        {
+            "id": 1,
+            "instruction": "As a software engineer who primarily uses relational databases, your team\u2019s new project requires integrating a NoSQL database that you have not used before. The lead architect asks for your thoughts on how to proceed with the upcoming schema design session."
+        },
+        {
+            "id": 2,
+            "instruction": "As a product manager used to waterfall development, a new team member proposes implementing agile sprints for the next product release. Your manager asks you to provide your input during the next team meeting."
+        },
+        {
+            "id": 3,
+            "instruction": "As a marketing specialist who relies on paid search campaigns, the company\u2019s latest analytics report highlights success with organic social media traffic. Your supervisor invites you to join a planning session focused on leveraging this channel."
+        },
+        {
+            "id": 4,
+            "instruction": "As a data analyst accustomed to Python, your team receives a large dataset for analysis that comes with R scripts written by another department. The project lead asks for your immediate plan for approaching the analysis."
+        },
+        {
+            "id": 5,
+            "instruction": "As a customer support manager who has always used email tickets, your company recently deployed a new chatbot platform that handles first-line inquiries. Your director asks how you plan to integrate this tool into your team\u2019s workflow."
+        },
+        {
+            "id": 6,
+            "instruction": "As a curriculum designer with a traditional classroom focus, a school partner introduces a blended learning model using virtual reality. Your colleague asks for your initial reaction to the proposed pilot program."
+        },
+        {
+            "id": 7,
+            "instruction": "As a finance analyst who typically creates models in Excel, your department acquires a specialized financial modeling software with advanced features. Your manager requests your approach to handling your next quarterly forecast."
+        },
+        {
+            "id": 8,
+            "instruction": "As a project coordinator experienced with in-person workshops, your organization shifts to delivering training exclusively through live webinars. Your supervisor asks how you will prepare for the upcoming session."
+        },
+        {
+            "id": 9,
+            "instruction": "As a UX designer favoring minimalist interfaces, a client provides research favoring feature-rich dashboards for their users. You are asked for your next step in the design process."
+        },
+        {
+            "id": 10,
+            "instruction": "As a quality assurance specialist who has relied on manual testing, your development team adopts an automated testing framework and asks you for your input on integrating it into the testing pipeline."
+        },
+        {
+            "id": 11,
+            "instruction": "As an HR business partner used to annual performance reviews, your company adopts a continuous feedback tool. Your department head wants your input on rolling out the new system to your team."
+        },
+        {
+            "id": 12,
+            "instruction": "As a sales executive accustomed to phone outreach, your company shifts focus to digital engagement via LinkedIn. Leadership asks you to help shape the next campaign."
+        },
+        {
+            "id": 13,
+            "instruction": "As a public health researcher who relies on quantitative data, your collaborator suggests incorporating qualitative interviews into your next study. They ask how you would incorporate this into your workflow."
+        },
+        {
+            "id": 14,
+            "instruction": "As a supply chain manager with experience in regional logistics, the company is expanding internationally with new customs protocols. Your VP asks for your approach to supporting the transition."
+        },
+        {
+            "id": 15,
+            "instruction": "As a technical writer used to detailed documentation, a product team proposes using more visual, infographic-driven guides. You are invited to the content planning meeting."
+        },
+        {
+            "id": 16,
+            "instruction": "As a healthcare administrator familiar with paper records, your hospital upgrades to a fully digital EHR system. The implementation team asks how you plan to prepare your staff."
+        },
+        {
+            "id": 17,
+            "instruction": "As an event planner who specializes in large, formal gatherings, your client requests a micro-event series using pop-up venues. They ask for your immediate thoughts on the proposal."
+        },
+        {
+            "id": 18,
+            "instruction": "As a cybersecurity analyst primarily focused on network security, your firm acquires IoT devices with unique security challenges. The IT director asks how you would assess risks in this new area."
+        },
+        {
+            "id": 19,
+            "instruction": "As a scientific editor with a background in biomedical research, you receive a manuscript using a novel computational method from computer science. The journal\u2019s editor asks for your decision on handling the review process."
+        },
+        {
+            "id": 20,
+            "instruction": "As a restaurant manager accustomed to traditional dining service, your company decides to launch a ghost kitchen for delivery-only orders. The regional director asks for your input on operationalizing this model."
+        },
+        {
+            "id": 21,
+            "instruction": "As a legal associate experienced in litigation, a client requests counsel on a complex intellectual property licensing deal. The partner asks for your initial approach to the case."
+        },
+        {
+            "id": 22,
+            "instruction": "As a museum curator focused on physical exhibits, leadership plans a major online-only exhibition. They ask how you would handle the shift in audience engagement."
+        },
+        {
+            "id": 23,
+            "instruction": "As a school principal with years of traditional discipline policies, a group of teachers proposes adopting restorative justice practices. The superintendent asks you for your response."
+        },
+        {
+            "id": 24,
+            "instruction": "As an operations manager experienced in on-site supervision, your company shifts to a hybrid work model with remote monitoring. The executive team asks for your immediate plans for managing your team."
+        },
+        {
+            "id": 25,
+            "instruction": "As a clinical psychologist who typically uses cognitive-behavioral approaches, you receive a referral for a case requiring trauma-informed care. The clinic director asks for your first step."
+        }
+    ]
+}

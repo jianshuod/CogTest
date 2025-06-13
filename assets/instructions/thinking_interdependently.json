@@ -1,0 +1,104 @@
+{
+    "instructions": [
+        {
+            "id": 1,
+            "instruction": "You are a public health officer tasked with implementing a new vaccination campaign in a city with diverse communities and local organizations. Develop an action plan to ensure high participation across all demographics."
+        },
+        {
+            "id": 2,
+            "instruction": "As a product manager at a tech company launching a new app feature, you notice previous launches have led to unexpected customer support issues. Create a rollout strategy to minimize negative user experiences."
+        },
+        {
+            "id": 3,
+            "instruction": "You are a lead researcher preparing a grant proposal to investigate a rare disease. Multiple departments, such as epidemiology, genetics, and clinical trials, have expressed interest in the project. Draft your proposal and outline your research methodology."
+        },
+        {
+            "id": 4,
+            "instruction": "Serving as an event coordinator for a university\u2019s multicultural festival, you must organize an opening ceremony that highlights the cultures of various campus organizations. Design a program for the ceremony."
+        },
+        {
+            "id": 5,
+            "instruction": "You are a policy analyst tasked with recommending a new city ordinance on sustainable transportation. Several neighborhood associations and business groups have provided feedback on past proposals. Prepare your policy recommendation and rationale."
+        },
+        {
+            "id": 6,
+            "instruction": "As a school principal, you are introducing a new digital learning platform. Teachers, parents, and IT staff have previously raised concerns about technology transitions. Prepare an implementation plan for the new platform."
+        },
+        {
+            "id": 7,
+            "instruction": "You are a medical resident managing a patient with complex symptoms involving multiple organ systems. There are specialists in cardiology, neurology, and endocrinology available at your hospital. Formulate a care plan for the patient."
+        },
+        {
+            "id": 8,
+            "instruction": "You are a software developer assigned to optimize the performance of a legacy system. The system is heavily used by various departments for different purposes, and documentation is outdated. Detail your approach to the optimization project."
+        },
+        {
+            "id": 9,
+            "instruction": "As a museum curator, you have been asked to design an exhibit on local history, with contributions from historians, artists, and community elders available. Create your plan for curating the exhibit."
+        },
+        {
+            "id": 10,
+            "instruction": "You are an HR manager revising your company\u2019s employee wellness program. Previous initiatives received mixed feedback from staff across departments. Develop your revised wellness program proposal."
+        },
+        {
+            "id": 11,
+            "instruction": "As a marketing specialist launching a new brand campaign for a product used by several customer segments, you have access to data from sales, design, and customer service teams. Outline your campaign strategy."
+        },
+        {
+            "id": 12,
+            "instruction": "You are an urban planner tasked with redesigning a city park located near schools, residences, and local businesses. Multiple community groups have previously suggested features for the space. Create a design proposal for the park."
+        },
+        {
+            "id": 13,
+            "instruction": "As a graduate teaching assistant for a large introductory course, students have varying academic backgrounds and some struggle with the material. Develop a plan to improve student engagement and learning outcomes."
+        },
+        {
+            "id": 14,
+            "instruction": "You are an operations manager at a manufacturing facility where recent safety incidents have occurred on different shifts. Safety officers, line workers, and maintenance staff have submitted separate reports. Propose measures to improve safety."
+        },
+        {
+            "id": 15,
+            "instruction": "As a grant writer at a nonprofit, you are preparing an application for funding a new community outreach program. The finance, outreach, and program evaluation teams have preliminary data relevant to the proposal. Draft your application."
+        },
+        {
+            "id": 16,
+            "instruction": "You are a customer experience manager for an airline, tasked with reducing complaints about boarding procedures. Staff from gate operations, customer service, and logistics have shared informal feedback. Design an improvement plan."
+        },
+        {
+            "id": 17,
+            "instruction": "As a high school science teacher, you are introducing a new lab activity that integrates chemistry and biology concepts. The school lab technician and other science teachers are available during planning. Develop your lesson plan."
+        },
+        {
+            "id": 18,
+            "instruction": "You are an IT support lead for a hospital, asked to streamline the onboarding process for new staff who report difficulties with different software platforms. Trainers, department heads, and user manuals are available resources. Outline your proposed solution."
+        },
+        {
+            "id": 19,
+            "instruction": "You are a logistics coordinator for a disaster relief organization preparing for hurricane season. Local government, first responders, and community volunteers have provided insights from previous emergencies. Create your preparedness plan."
+        },
+        {
+            "id": 20,
+            "instruction": "As the coordinator for a regional science fair, you are responsible for designing the judging criteria and process. Judges from academia, industry, and local schools participate in the fair. Develop your criteria and judging protocol."
+        },
+        {
+            "id": 21,
+            "instruction": "You are a library director implementing a new digital catalog system. Patrons, librarians, and IT staff have experienced challenges during past technology upgrades. Design your implementation process."
+        },
+        {
+            "id": 22,
+            "instruction": "As a financial analyst, you are preparing the next quarter\u2019s budget projection for your company. Various department heads have proposed new projects with differing priorities. Present your budget proposal."
+        },
+        {
+            "id": 23,
+            "instruction": "You are a human resources business partner at a growing startup developing a flexible work policy. Feedback has been collected from employees, team leads, and executives in the past. Draft your recommended policy."
+        },
+        {
+            "id": 24,
+            "instruction": "You are a school counselor developing a program to address bullying. Students, teachers, and parents have raised concerns about school climate. Prepare your program outline."
+        },
+        {
+            "id": 25,
+            "instruction": "You are a clinical psychologist designing a support group for patients with chronic illness. Nursing staff, social workers, and patients\u2019 families have expressed interest in participating in some way. Outline your plan for the support group."
+        }
+    ]
+}

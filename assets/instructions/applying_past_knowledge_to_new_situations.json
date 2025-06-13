@@ -1,0 +1,104 @@
+{
+    "instructions": [
+        {
+            "id": 1,
+            "instruction": "You have previously worked as a chef in a busy restaurant kitchen. Now, as a logistics manager for a regional warehouse, develop a system to optimize the flow of goods from arrival to dispatch."
+        },
+        {
+            "id": 2,
+            "instruction": "With experience as a high school mathematics teacher, you are now leading a team in a customer service call center. Create a training program to improve agents\u2019 problem-solving and communication skills."
+        },
+        {
+            "id": 3,
+            "instruction": "Having been a construction project supervisor, you are now a product manager at a software startup. Outline the process for launching a new mobile application from inception to release."
+        },
+        {
+            "id": 4,
+            "instruction": "You previously worked as a theater director. As a marketing strategist for a new consumer electronics brand, develop a promotional campaign for the company\u2019s flagship product."
+        },
+        {
+            "id": 5,
+            "instruction": "With a background as a registered nurse, you are now managing a community fitness center. Design a wellness program aimed at increasing regular participation among local residents."
+        },
+        {
+            "id": 6,
+            "instruction": "Having worked as a landscape architect, you are now the manager of an online education platform. Propose an approach to increase student engagement throughout an academic term."
+        },
+        {
+            "id": 7,
+            "instruction": "Your prior role was as an air traffic controller. As an operations analyst at a retail chain\u2019s headquarters, recommend ways to enhance inventory management and reduce stockouts."
+        },
+        {
+            "id": 8,
+            "instruction": "As a former news editor, you are now tasked with managing a technical support team for a cloud software company. Create guidelines for effective handling of customer inquiries."
+        },
+        {
+            "id": 9,
+            "instruction": "Previously a museum curator, you are now overseeing the launch of a coworking space. Develop a plan to foster collaboration and build a vibrant community among members."
+        },
+        {
+            "id": 10,
+            "instruction": "With experience as a professional event photographer, you have taken a position as the recruitment lead for a non-profit organization. Design a process for attracting and onboarding new volunteers."
+        },
+        {
+            "id": 11,
+            "instruction": "After working as a flight attendant, you are now coordinating corporate trainings for a multinational corporation. Propose a schedule and format for delivering effective remote trainings."
+        },
+        {
+            "id": 12,
+            "instruction": "Having previously managed a local bookstore, you are now responsible for implementing a new knowledge-sharing portal within a large IT firm. Outline a rollout plan to encourage staff participation."
+        },
+        {
+            "id": 13,
+            "instruction": "With a background in industrial design, you have joined a healthcare startup as head of patient experience. Develop an approach to gather and act on patient feedback for continuous improvement."
+        },
+        {
+            "id": 14,
+            "instruction": "Previously a secondary school sports coach, you are now a project lead for a mobile banking app launch. Map out a timeline and key deliverables for the product release."
+        },
+        {
+            "id": 15,
+            "instruction": "As a former chef instructor, you are now managing a team of field sales representatives at a beverage company. Create a set of guidelines for effective territory management and client engagement."
+        },
+        {
+            "id": 16,
+            "instruction": "You were previously a professional musician. Now, as a team lead in a software engineering department, outline a system for tracking and celebrating team achievements."
+        },
+        {
+            "id": 17,
+            "instruction": "Having worked as a wildlife conservation officer, you have joined a data analytics consultancy. Propose a project structure for delivering analytical insights to a manufacturing client."
+        },
+        {
+            "id": 18,
+            "instruction": "Your background is in emergency medical response. You are now the community manager for an online gaming platform. Design a set of procedures for handling conflicts among members."
+        },
+        {
+            "id": 19,
+            "instruction": "You formerly worked as a retail visual merchandiser. Now, as an HR coordinator at a fintech startup, develop a strategy for creating an inviting and productive office environment."
+        },
+        {
+            "id": 20,
+            "instruction": "With experience as a high school debate coach, you are now responsible for client relations at an architectural firm. Prepare a plan to communicate project progress to clients and manage expectations."
+        },
+        {
+            "id": 21,
+            "instruction": "Having worked as a tour guide, you are now organizing a technical conference for industry professionals. Draft a detailed itinerary that balances educational and networking opportunities."
+        },
+        {
+            "id": 22,
+            "instruction": "Your previous job was as a pastry chef. As a customer experience analyst for a telecommunications company, recommend improvements to the company's online support portal."
+        },
+        {
+            "id": 23,
+            "instruction": "With prior experience as a marine biologist, you have joined a municipal government team working on urban traffic flow. Design a proposal for reducing congestion during peak hours."
+        },
+        {
+            "id": 24,
+            "instruction": "Previously an actor, you are now developing onboarding materials for a startup\u2019s remote engineering team. Create an engaging orientation process for new hires."
+        },
+        {
+            "id": 25,
+            "instruction": "Your background is in fashion retail management. Now, as head of operations for a local food delivery service, devise a plan to improve order accuracy and reduce delivery times."
+        }
+    ]
+}

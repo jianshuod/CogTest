@@ -1,0 +1,104 @@
+{
+    "instructions": [
+        {
+            "id": 1,
+            "instruction": "While presenting your research findings over Zoom, you realize your screen is sharing your desktop wallpaper \u2014 a silly meme you forgot was there. Colleagues start laughing. What do you do next?"
+        },
+        {
+            "id": 2,
+            "instruction": "During a workshop, you mispronounce a technical term repeatedly until someone gently corrects you. The room chuckles. How do you respond?"
+        },
+        {
+            "id": 3,
+            "instruction": "You\u2019re facilitating a meeting when your phone starts playing an unexpected ringtone \u2014 a popular cartoon theme song. Everyone looks over. What do you do next?"
+        },
+        {
+            "id": 4,
+            "instruction": "While introducing a new colleague, you accidentally mix up their name with someone else\u2019s in front of the group. The mistake is noticed. How do you handle the moment?"
+        },
+        {
+            "id": 5,
+            "instruction": "Giving a presentation, you reference a slide, but realize you\u2019ve been talking about the wrong one for several minutes. People are a bit confused. What do you do next?"
+        },
+        {
+            "id": 6,
+            "instruction": "On your first day at a new job, you walk confidently into the wrong meeting room and interrupt a serious discussion. The attendees look surprised. How do you proceed?"
+        },
+        {
+            "id": 7,
+            "instruction": "You send a direct message meant for a friend \u2014 containing an inside joke \u2014 to your entire team\u2019s group chat. Some team members react with emojis. What\u2019s your next step?"
+        },
+        {
+            "id": 8,
+            "instruction": "During a group brainstorming session, you enthusiastically pitch an idea, only to realize you misunderstood the original prompt. Everyone pauses. How do you respond?"
+        },
+        {
+            "id": 9,
+            "instruction": "While sharing your screen in a training session, a notification pops up showing a reminder you set for yourself: 'Don\u2019t forget snacks.' The group sees it. What do you do next?"
+        },
+        {
+            "id": 10,
+            "instruction": "At a formal event, you accidentally spill water on your own notes right before your speech. Others notice and wait for you to continue. How do you handle the situation?"
+        },
+        {
+            "id": 11,
+            "instruction": "You trip slightly while walking up to accept an award, catching yourself just in time. The audience lets out a collective gasp, then silence. What do you do next?"
+        },
+        {
+            "id": 12,
+            "instruction": "While leading an icebreaker game, you forget the rules halfway through and the group looks to you for direction. There\u2019s a brief, awkward pause. How do you proceed?"
+        },
+        {
+            "id": 13,
+            "instruction": "During a video call, your pet walks across your keyboard, briefly turning off your camera and mic. When you return, everyone is smiling. What\u2019s your response?"
+        },
+        {
+            "id": 14,
+            "instruction": "In the middle of a group project presentation, you realize you\u2019ve mixed up your slides with someone else\u2019s. Your teammates notice the error. How do you react?"
+        },
+        {
+            "id": 15,
+            "instruction": "You\u2019re facilitating a Q&A session when you answer a question in detail, only for the questioner to clarify that wasn\u2019t what they meant at all. The group looks on. What do you do next?"
+        },
+        {
+            "id": 16,
+            "instruction": "You accidentally start speaking while muted during a virtual meeting and go on for a while before noticing. Colleagues point it out in the chat. How do you respond?"
+        },
+        {
+            "id": 17,
+            "instruction": "During a classroom discussion, you confidently state a fact \u2014 only to have your teacher gently correct you. Some classmates quietly laugh. What\u2019s your next move?"
+        },
+        {
+            "id": 18,
+            "instruction": "While writing on the whiteboard, you realize you\u2019ve misspelled a simple word in front of everyone. Some participants notice and grin. How do you handle this?"
+        },
+        {
+            "id": 19,
+            "instruction": "At the start of a team call, you launch into your opening remarks, only to realize your microphone was off the whole time. Everyone is waiting. What do you do next?"
+        },
+        {
+            "id": 20,
+            "instruction": "You try to play a video clip during a seminar, but it fails to load and instead plays a funny commercial you\u2019d watched earlier. The room reacts. How do you respond?"
+        },
+        {
+            "id": 21,
+            "instruction": "While networking at a conference, you address someone by the wrong company name. Others at the table catch your mistake. What\u2019s your immediate reaction?"
+        },
+        {
+            "id": 22,
+            "instruction": "You arrive late to a group meeting, then accidentally sit in the team leader\u2019s chair. People glance over and smile. What do you do next?"
+        },
+        {
+            "id": 23,
+            "instruction": "Giving a class presentation, your slideshow transitions include unexpected, over-the-top sound effects. The audience looks surprised and amused. How do you proceed?"
+        },
+        {
+            "id": 24,
+            "instruction": "During a lunch break, you enthusiastically join a conversation, only to realize too late they\u2019re discussing a topic you know nothing about. Everyone turns to you. What do you do next?"
+        },
+        {
+            "id": 25,
+            "instruction": "You realize you\u2019ve had spinach stuck in your teeth during an important interview, and your interviewer finally points it out. What\u2019s your reaction?"
+        }
+    ]
+}
